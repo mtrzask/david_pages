@@ -15,4 +15,4 @@ Just a few links
 [DAVID: KEGG Pathways Annotation](DAVID_KEGG_PATHWAY_Annotation.html)
 [DAVID: PIR SEQ Feature](DAVID_PIR_SEQ_Feature.html)
 [DAVID: UP Keywords](DAVID_UP_Keywords_Annotation.html)
-[DAVID: UP SEQ Feature](DAVID_UP_SEQ_Feature_Annotation.html")
+[DAVID: UP SEQ Feature](DAVID_UP_SEQ_Feature_Annotation.html)
